@@ -1,0 +1,13 @@
+{
+  "name": "controlflow",
+  "description": "Simple control flow functions for Node.js",
+  "version": "0.0.1",
+  "main": "lib/controlflow.js",
+  "repository": {
+    "type": "git",
+    "url":  "git://github.com/mixu/controlflow.git" },
+  "scripts": {
+    "test": "cd test && node controlflow.test.js"
+    },
+  "private":true
+}
